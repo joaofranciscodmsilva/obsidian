@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "- path: \"1. Diário\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 1.00709342560554,
+  "lineSizeMultiplier": 1.00709342560554,
+  "collapse-forces": true,
+  "centerStrength": 1,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.9999999999999863,
+  "close": true
+}

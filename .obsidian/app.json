@@ -1,0 +1,10 @@
+{
+  "showLineNumber": false,
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "promptDelete": false
+}

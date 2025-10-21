@@ -1,0 +1,12 @@
+{
+  "defaultPath": "/Estudos/handwritten-notes/",
+  "assetUrl": "",
+  "useRelativePaths": true,
+  "showWelcomeModal": false,
+  "collapseEmbeds": true,
+  "favoriteTemplate": "blank.pdf",
+  "templatesAtCustom": false,
+  "templatesPath": "/templates/",
+  "openInNewTab": false,
+  "createFolderIfNotExists": true
+}
