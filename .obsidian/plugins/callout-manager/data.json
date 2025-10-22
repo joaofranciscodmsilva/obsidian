@@ -1,0 +1,31 @@
+{
+  "callouts": {
+    "custom": [
+      "tasks",
+      "list"
+    ],
+    "settings": {
+      "tasks": [
+        {
+          "changes": {
+            "icon": "lucide-list",
+            "color": "81, 105, 133"
+          }
+        }
+      ],
+      "list": [
+        {
+          "changes": {
+            "icon": "lucide-clipboard-list",
+            "color": "100, 116, 135"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

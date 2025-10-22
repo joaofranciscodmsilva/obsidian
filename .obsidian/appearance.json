@@ -1,4 +1,9 @@
 {
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "MCL Multi Column",
+    "MCL Gallery Cards",
+    "MCL Wide Views"
+  ]
 }

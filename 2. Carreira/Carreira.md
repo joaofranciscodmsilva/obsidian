@@ -1,9 +1,9 @@
------------
+------------------------
 #### Tarefas
 >[!multi-column]
 >>[!done] #### Feito essa semana
 >>```tasks
->>tags include #Task/TCC 
+>>tags include #Task/Carreira 
 >>hide backlinks
 >>hide tags 
 >>hide done date
@@ -12,10 +12,11 @@
 >
 >>[!tasks] #### A fazer
 >>```tasks
->>tags include #Task/TCC 
+>>tags include #Task/Carreira 
 >>hide backlinks
 >>hide tags 
 >>hide done date
 >>not done
 >>```
 
+-------------

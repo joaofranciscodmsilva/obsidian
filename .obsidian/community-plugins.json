@@ -3,7 +3,6 @@
   "handwritten-notes",
   "obsidian-tasks-plugin",
   "obsidian-kanban",
-  "obsidian-columns",
   "templater-obsidian",
   "various-complements",
   "tag-wrangler",
@@ -12,5 +11,6 @@
   "homepage",
   "dataview",
   "image-converter",
-  "heatmap-tracker"
+  "heatmap-tracker",
+  "callout-manager"
 ]
